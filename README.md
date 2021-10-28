@@ -8,7 +8,7 @@ But really bad at my native language.  ¯\_(ツ)_/¯<br>
 
 
 <hr>
-Understanding my code is a God's blessing. And apparently, I lack of it.
+ I use arch btw.
 
 <!---
 Neek0tine/Neek0tine is a guy who currently had urges to automate something because how easy python is.
