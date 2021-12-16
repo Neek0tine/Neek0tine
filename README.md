@@ -12,7 +12,7 @@ Open Commishes: <br>
 - Website design (Responsive/Dynamic web design)<br>
 - Simple Programs (Automations, Scrappers, etc.)<br>
 - data analysis (LRM, ANOVA, etc)<br>
-[More at]<https://neek0tine.github.io/><br>
+<a href="https://neek0tine.github.io/">[Learn More]</a><br>
 
 <!---
 Neek0tine/Neek0tine is a guy who currently had urges to automate something because how easy python is.
