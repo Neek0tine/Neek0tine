@@ -1,6 +1,7 @@
 <h2>I program for fun, and design for money. </h2>
 Has been school's go to designer and/or IT guy since middle school<br> and since then, most of my hobby includes computer screen.<br><br>
-<img src="https://github.com/Neek0tine/Neek0tine/blob/main/dubdubdub.gif" width="200">
+<!-- <img src="https://github.com/Neek0tine/Neek0tine/blob/main/dubdubdub.gif" width="200"> -->
+<img src="https://github.com/Neek0tine/Tweetoxicity/blob/main/artworks/analyzing.gif" width="200">
 I could speak a bit of a Python, LUA, C and Pascal,<br>
 and is a bit familiar about how the Internet works.<br>
 
